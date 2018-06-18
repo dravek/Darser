@@ -1,0 +1,18 @@
+{
+    "name": "dravek/Darser",
+    "description": "CSV/XML Parser",
+    "authors": [
+        {
+            "name": "David"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Darser\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
+    }
+}
